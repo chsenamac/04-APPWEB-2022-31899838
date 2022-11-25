@@ -1,0 +1,9 @@
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\bin\Debug\Logica.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\bin\Debug\Logica.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\bin\Debug\Entidades.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\bin\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\bin\Debug\Entidades.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\bin\Debug\Persistencia.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\obj\Debug\Logica.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\LogicaNegocios\Logica\obj\Debug\Logica.pdb

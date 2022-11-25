@@ -1,0 +1,6 @@
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\PersistenciaDatos\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\PersistenciaDatos\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\PersistenciaDatos\Persistencia\bin\Debug\Entidades.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\PersistenciaDatos\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\PersistenciaDatos\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Respaldo de documentos\REPOSITORIOS\Obligatorio-APPWEB-2022-31899838\Sitio\ObligatorioAppWeb-2022\PersistenciaDatos\Persistencia\obj\Debug\Persistencia.pdb
